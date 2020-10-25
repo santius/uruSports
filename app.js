@@ -24,7 +24,7 @@ const fetchData = async () => {
 
         teams.push(team);
     })
-    console.log(teams);
+    return teams;
 }
 
 fetchData();
