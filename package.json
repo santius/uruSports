@@ -1,0 +1,29 @@
+{
+  "name": "urusports",
+  "version": "1.0.0",
+  "description": "API for getting Uruguayan sport leagues data",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santius/uruSports.git"
+  },
+  "keywords": [
+    "sports",
+    "api",
+    "uruguay"
+  ],
+  "author": "Santiago Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santius/uruSports/issues"
+  },
+  "homepage": "https://github.com/santius/uruSports#readme"
+}
